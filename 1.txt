@@ -1,7 +1,1 @@
-echo "# test2" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/YunChih07/test2.git
-git push -u origin main
+hi 2021 10 25
